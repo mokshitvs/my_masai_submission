@@ -9,7 +9,7 @@
 | Institute       | BITSoM CEPD  |
 
 ## Repository
-**Public GitHub Repository:** `https://github.com/[your-username]/quickpay-fintech-ops`
+**Public GitHub Repository:** `https://github.com/mokshitvs/my_masai_submission/tree/main`
 
 ---
 
