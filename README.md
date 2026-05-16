@@ -4,9 +4,9 @@
 | Field           | Detail                    |
 |-----------------|---------------------------|
 | Student Name    | Mokshit                   |
-| Student ID      | [Your Student ID Here]    |
-| Program         | B.Sc. Finance, Semester IV |
-| Institute       | NMIMS ASMSOC, Mumbai      |
+| Student ID      | bitsom_ftai_2601168   |
+| Program         | Executive Certification in FinTech & Artificial Intelligence |
+| Institute       | BITSoM CEPD  |
 
 ## Repository
 **Public GitHub Repository:** `https://github.com/[your-username]/quickpay-fintech-ops`
