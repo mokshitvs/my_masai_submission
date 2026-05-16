@@ -3,7 +3,7 @@
 ## Student Information
 | Field           | Detail                    |
 |-----------------|---------------------------|
-| Student Name    | Mokshit                   |
+| Student Name    | Mokshit Sanghavi        |
 | Student ID      | bitsom_ftai_2601168   |
 | Program         | Executive Certification in FinTech & Artificial Intelligence |
 | Institute       | BITSoM CEPD  |
